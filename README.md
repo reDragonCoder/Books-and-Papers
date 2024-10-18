@@ -3,7 +3,7 @@
 Welcome to the Repository of Books and Papers! This collection serves as a comprehensive library for students, researchers, and anyone interested in expanding their knowledge across various fields. 
 
 ----------------------------------------
-📖 Contents
+📖 CONTENTS
 - Competitive Programming
 - Crypto
 - Hacking
